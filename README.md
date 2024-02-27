@@ -1,0 +1,2 @@
+# .github
+SPAM소개
