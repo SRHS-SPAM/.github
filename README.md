@@ -85,8 +85,9 @@ SPAM(Study Programming Algorithms Myself)은 서울로봇고등학교의 유일 
 # 📫 동아리 가입이나 정보를 얻고싶으시면 이 곳으로 연락주세요!
 - [Web](http://srh-spam.com)
 - [Instargram](https://www.instagram.com/spam._srh/)
-- [부장 인스타그램](https://www.instagram.com/m.s.g2324/)
-- [차장 인스타그램](https://www.instagram.com/_thirdfortune/) <- 연락 더 잘됨
+- [부장 인스타그램](https://www.instagram.com/_thirdfortune/)
+- [차장 인스타그램](https://www.instagram.com/m.s.g2324/)
+
 
 <!-- Markdown link & img dfn's -->
 
