@@ -21,7 +21,6 @@ SPAM(Study Programming Algorithms Myself)은 서울로봇고등학교의 유일 
 ![dart]
 ![flutter]<br>
 ![kotlin]
-![ad]
 ![cp]
 
 ## UiUX
@@ -35,7 +34,6 @@ SPAM(Study Programming Algorithms Myself)은 서울로봇고등학교의 유일 
 ![gin]
 ![ep]
 ![nest]
-![jest]
 
 ## Database
 ![mysql]
@@ -85,9 +83,6 @@ SPAM(Study Programming Algorithms Myself)은 서울로봇고등학교의 유일 
 # 📫 동아리 가입이나 정보를 얻고싶으시면 이 곳으로 연락주세요!
 - [Web](http://srh-spam.com)
 - [Instargram](https://www.instagram.com/spam._srh/)
-- [부장 인스타그램](https://www.instagram.com/m.s.g2324/)
-- [차장 인스타그램](https://www.instagram.com/_thirdfortune/) <- 연락 더 잘됨
-
 <!-- Markdown link & img dfn's -->
 
 [HTML]: https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white
